@@ -1,0 +1,78 @@
+Comando para poder validar los tipos de datos enviados como parametros:
+
+npm install prop-types
+
+Libreria para importar iconos en react propios:
+
+https://react-icons.github.io/react-icons/
+
+Libreria para exportar componentes personalizados:
+
+https://mui.com/
+
+libreria para export iconos de otra pagina de font-awensome:
+
+https://fontawesome.com/icons/pen-to-square?s=solid&f=classic
+
+link para añadir los iconos de font-awensome:
+
+https://cdnjs.com/libraries/font-awesome
+
+// importar mediante node los inconos de frontawase:
+
+npm i @fortawesome/free-regular-svg-icons @fortawesome/free-solid-svg-icons @fortawesome/free-brands-svg-icons
+
+// comando para crear rutas en react
+
+npm i react-router-dom
+
+//documento de reac router
+
+https://reactrouter.com/en/main/components/link
+
+// axios para consultar api rest del bakend
+
+npm i axios
+
+
+
+
+-------------------------------------- Curso de Node con Express js------------------------------------------------------------
+
+Primero creamos una carperta "node"
+
+Dentro de esa carpeta ponemos el siguisntre comando:
+
+npm init -y
+
+Instalamos las dependencias:
+
+npm i express
+npm i cors
+npm i msql2
+npm i sequelize
+npm i -D nodemon
+
+// instalar extension de visual studio code para probar enpoint
+
+Thunder Client
+
+// correr el proyecto en node 
+
+npm run dev
+
+configurar 
+
+
+archivo ===>  package.json
+
+"scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+
+
+
+
+
